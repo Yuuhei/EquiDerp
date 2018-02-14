@@ -3,6 +3,8 @@
 
 Nothing special here, just Equinox (a [Warframe](https://www.warframe.com), if you don't know) changing aspects/forms depending on time.
 
+![demo](https://github.com/Yuuhei/EquiDerp/raw/master/demo.gif)
+
 Aspect transformations is handled via Timezone, so in example, me, in Philippines, our timezone is GMT +8 (Asia/Manila), on 5:30am to 6-7:00pm, Equinox aspect is Day. Same on night obviously.
 
 This preset is created on a 720x1280 phone, idk of this preset will work on higher resolution. Maybe it will.
