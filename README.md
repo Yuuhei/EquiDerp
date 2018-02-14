@@ -108,3 +108,9 @@ Arsenal background and spinning loading icon are from Warframe Nexus app, i deco
 
 (**Warframe is a trademark of Digital Extremes**)
 
+# Sorry for the long README.md 
+
+**here's a potato**
+
+![alt text](https://vignette.wikia.nocookie.net/warframe/images/7/73/OrokinCell.png/revision/latest?cb=20130426082748)
+
