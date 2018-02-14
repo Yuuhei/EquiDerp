@@ -26,12 +26,27 @@ then download the .klwp preset [HERE](https://github.com/Yuuhei/EquiDerp/raw/mas
 
 **Second**, extract the zip, then you'll see a **Equinox** folder, put that on **Kustom** folder on your sdcard. in my case it's on /sdcard/Kustom. (if you can't see the Kustom folder, *LAUNCH KLWP FIRST*. then check it again on your sdcard.)
 
+![alt text](https://github.com/Yuuhei/EquiDerp/raw/master/0.jpg)
 
 # Instructions how to setup: #
 
 On Nova Launcher, setup a 2 page homescreen, set the **RIGHT** screen as main screen. Then set your Desktop Grid to 12x12 (or higher). Remove some homescreen elements (ex. Dock).
 
+![alt text](https://github.com/Yuuhei/EquiDerp/raw/master/6.png)
+
+![alt text](https://github.com/Yuuhei/EquiDerp/raw/master/7.png)
+
 On KLWP, just import the preset by swiping on left, tap on "Load Preset", then swipe to " Exported" tab then tap the folder icon. Locate the EquiDerp.klwp on your sdcard, tap the exported file and tap the Save icon on top of the preview screen (the one with floppy icon), *IF A POPUP ALERT THAT SAYS* "Set as Wallpaper" appears, just tap "Fix" then "Set as Wallpaper" on bottom. *(DON'T FORGET THE Equinox FOLDER! IT'S VERY IMPORTANT!!)*
+
+![alt text](https://github.com/Yuuhei/EquiDerp/raw/master/8.jpg)
+
+![alt text](https://github.com/Yuuhei/EquiDerp/raw/master/9.jpg)
+
+![alt text](https://github.com/Yuuhei/EquiDerp/raw/master/x.jpg)
+
+![alt text](https://github.com/Yuuhei/EquiDerp/raw/master/10.jpg)
+
+![alt text](https://github.com/Yuuhei/EquiDerp/raw/master/11.jpg)
 
 Back to Nova Launcher, Arrange your apps to "APPLICATIONS" on left page.
 
@@ -43,7 +58,11 @@ That's it!
 
 # Alright i'll explain how Globals and Shortcuts works. #
 
-*GLOBALS*
+**GLOBALS**
+
+![alt text](https://github.com/Yuuhei/EquiDerp/raw/master/3.png)
+
+![alt text](https://github.com/Yuuhei/EquiDerp/raw/master/4.png)
 
 `LckScrn` - Set this to change your Lockscreen Wallpaper. (for AOSP/Stock Android ONLY!!, if you're using CyanogenMod/LineageOS, set your Theme Engine stock Lockscreen. For Samsung/MIUI/Other Modded android, obviously change the lockscreen wallpaper that matches this preset.)
 
@@ -51,7 +70,13 @@ That's it!
 
 `EqnxUpdt` - Updates and refreshes Equinox (turn it on and off to refresh when Equinox is NOT changing aspects. Use this when something on Equinox goes wrong.)
 
-SHORTCUTS
+**SHORTCUTS**
+
+![alt text](https://github.com/Yuuhei/EquiDerp/raw/master/1.jpg)
+
+![alt text](https://github.com/Yuuhei/EquiDerp/raw/master/2.jpg)
+
+![alt text](https://github.com/Yuuhei/EquiDerp/raw/master/5.png)
 
 `Item1` - Choose what app to open on first menu.
 
@@ -68,7 +93,7 @@ SHORTCUTS
 - May *lag* on "weak" devices.
 - UI may break on high resolution devices, i've created this preset on a 720x1280 phone.
 
-# Note #
+# Notes #
 That's it, very simple. Note that im still a newb making a preset/theme for KLWP, so expect messy work. LOL
 
 To report issues, use the `Create Issue` feature here on GitHub.
