@@ -100,6 +100,12 @@ That's it, very simple. Note that im still a newb making a preset/theme for KLWP
 
 To report issues, use the `New Issue`feature found on `Issues` on top here on GitHub.
 
+Or message me on:
+
+**Facebook** - https://fb.me/xInfinityEdge
+
+**Discord** - Xceon#1246 or https://discord.gg/vwk9gtS
+
 # Disclaimer #
 
 Some assets/elements/design are not mine, they can be found on Fan Pack on Warframe Website.
