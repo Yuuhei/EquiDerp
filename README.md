@@ -7,6 +7,14 @@ Nothing special here, just Equinox (a [Warframe](https://www.warframe.com), if y
 
 Aspect transformations is handled via Timezone, so in example, me, in Philippines, our timezone is GMT +8 (Asia/Manila), on 5:30am to 6-7:00pm, Equinox aspect is Day. Same on night obviously.
 
+**Day Aspect:**
+
+![alt text](https://github.com/Yuuhei/EquiDerp/raw/master/day.png)
+
+**Night Aspect:**
+
+![alt text](https://github.com/Yuuhei/EquiDerp/raw/master/night.png)
+
 This preset is created on a 720x1280 phone, idk of this preset will work on higher resolution. Maybe it will.
 
 **DOES NOT WORK ON TABLETS OR LANDSCAPE DEVICES! UI IS BREAKING ON LANDSCAPE!!** This preset is created on a phone, PORT it on landscape devices, you have my permission.
