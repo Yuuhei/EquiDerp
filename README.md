@@ -112,5 +112,5 @@ Arsenal background and spinning loading icon are from Warframe Nexus app, i deco
 
 **here's a potato**
 
-![alt text](https://vignette.wikia.nocookie.net/warframe/images/7/73/OrokinCell.png/revision/latest?cb=20130426082748)
+![alt text](https://vignette.wikia.nocookie.net/warframe/images/5/51/Orokin_Reactor.png/revision/latest?cb=20130716194937)
 
