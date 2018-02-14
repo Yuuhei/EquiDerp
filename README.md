@@ -98,4 +98,13 @@ That's it!
 # Notes #
 That's it, very simple. Note that im still a newb making a preset/theme for KLWP, so expect messy work. LOL
 
-To report issues, use the `Create Issue` feature here on GitHub.
+To report issues, use the `New Issue`feature found on `Issues` on top here on GitHub.
+
+# Disclaimer #
+
+Some assets/elements/design are not mine, they can be found on Fan Pack on Warframe Website.
+
+Arsenal background and spinning loading icon are from Warframe Nexus app, i decompiled the app to get the resources. (yeah sorry for that.)
+
+(**Warframe is a trademark of Digital Extremes**)
+
