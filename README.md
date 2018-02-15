@@ -102,6 +102,8 @@ That's it!
 - Lockscreen wallpaper only works on AOSP (stock android). Set you lockscreen wallpaper on device settings if you're using Samsung Touchwiz/OPPO ColorOS/vivo FuntouchOS/Xiaomi MIUI etc..
 - May *lag* on "weak" devices.
 - UI may break on high resolution devices, i've created this preset on a 720x1280 phone.
+- "Album" may show incorrect music player icon when paused or music player dismissed. (not my fault, it's KLWP's bug).
+- Location (Item2) UI may break if long location is detected (still working on this issue.)
 
 # Notes #
 That's it, very simple. Note that im still a newb making a preset/theme for KLWP, so expect messy work. LOL
