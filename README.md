@@ -103,7 +103,7 @@ That's it!
 - May *lag* on "weak" devices.
 - UI may break on high resolution devices, i've created this preset on a 720x1280 phone.
 - "Album" may show incorrect music player icon when paused or music player dismissed. (not my fault, it's KLWP's bug).
-- Location (Item2) UI may break if long location is detected (still working on this issue.)
+- Location (Item3) UI may break if long location is detected (still working on this issue.)
 
 # Notes #
 That's it, very simple. Note that im still a newb making a preset/theme for KLWP, so expect messy work. LOL
@@ -124,9 +124,9 @@ Arsenal background and spinning loading icon are from Warframe Nexus app, i deco
 
 (**Warframe is a trademark of Digital Extremes**)
 
-# Sorry for the long README.md 
+# Sorry for the long README.md, here's a potato.
 
-**here's a potato**
+
 
 ![alt text](https://vignette.wikia.nocookie.net/warframe/images/5/51/Orokin_Reactor.png/revision/latest?cb=20130716194937)
 
